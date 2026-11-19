@@ -1,0 +1,5 @@
+{
+  "name":"@ledgers/worker","private":true,"type":"module",
+  "scripts":{"start":"node src/index.js"},
+  "dependencies":{"adm-zip":"^0.5.16","dockerode":"^4.0.4","express":"^4.21.2"}
+}
